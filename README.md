@@ -33,4 +33,48 @@
 ## 🐛 Junior Phase
 
 * [📖 PDF: Curriculum Outline](01-junior/Fullstack%20Academy%20Junior%20Phase%20Outline.pdf)
-* [📖 PDF: Orientation Slides](01-junior/Orienation%20-%20Grace%20Hopper.pdf)
+* [📖 PDF: Orientation Slides](01-junior/Orientation%20-%20Grace%20Hopper.pdf)
+* [📺 Orientation](https://youtu.be/rKcrLXQH4Lk)
+* [📺 Junior Phase tools/intro](https://youtu.be/jMeszg4C_YY)
+* [📺 Lecture Playlist!](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmjiVfw1_3SXAMvECArx9V2)
+
+
+### Week 1
+
+Data Structures, HTML & CSS, Collaboration & Git, DOM & Events
+
+<details><summary>Click to Open</summary>
+
+#### Day 1
+
+##### Data Structures & Abstract Data Types
+
+* Pre-Work: [📺 Computer Science Fundamentals](https://www.youtube.com/watch?v=5pmSAEeMsfo)
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Stacks, Queues, DSs, ADTs | [📺][ds-1a] | [🖼️][ds-1b] | — | —
+Linked Lists | [📺][ds-2a] | [🖼️][ds-2b] | [👾][ds-2c] | [📺][ds-2d]
+Binary Search Trees | [📺][ds-3a] | [🖼️][ds-3b] | [👾][ds-3c] | [📺][ds-3d]
+Hash Tables | [📺][ds-4a] | — | — | —
+
+* Homework
+  * Review the solution videos / code
+  * [📺 Hash Table lecture][ds-4a]
+* Extra challenges
+  * Implement stacks & queues using an array + variables, but NO array methods or `length`.
+  * Implement stacks & queues using your linked list.
+
+[ds-1a]: https://youtu.be/vg4XfwUctWE
+[ds-1b]: 01-junior/01-data-structures/stacks-queues.pdf
+[ds-2a]: https://youtu.be/k25uk-O6tMg
+[ds-2b]: 01-junior/01-data-structures/linked-list.pdf
+[ds-2c]: 01-junior/01-data-structures/PairExercise.LinkedList.Solution
+[ds-2d]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmR3kE0iA2eIYNS_beMg8ti
+[ds-3a]: https://youtu.be/tBhRMZFqZrc
+[ds-3b]: 01-junior/01-data-structures/binary-search-tree.pdf
+[ds-3c]: 01-junior/01-data-structures/PairExercise.BinarySearchTree.Solution
+[ds-3d]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B
+[ds-4a]: https://youtu.be/_ly0_BpLJdk
+
+</details>
