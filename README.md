@@ -32,4 +32,5 @@
 
 ## 🐛 Junior Phase
 
-* [📖 PDF: Curriculum Outline](01-junior-phase/Fullstack%20Academy%20Junior%20Phase%20Outline.pdf)
+* [📖 PDF: Curriculum Outline](01-junior/Fullstack%20Academy%20Junior%20Phase%20Outline.pdf)
+* [📖 PDF: Orientation Slides](01-junior/Orienation%20-%20Grace%20Hopper.pdf)
