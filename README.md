@@ -1,4 +1,4 @@
-# 📚 1806-FSA-NY Library
+# 📚 1806-GH-NY Library
 
 ## 🛠️ Helpful Resources/Links
 
@@ -33,4 +33,3 @@
 ## 🐛 Junior Phase
 
 * [📖 PDF: Curriculum Outline](01-junior-phase/Fullstack%20Academy%20Junior%20Phase%20Outline.pdf)
-* [📖 PDF: Curriculum Syllabus (more detail)](01-junior-phase/Junior%20Phase%20Syllabus.pdf)
