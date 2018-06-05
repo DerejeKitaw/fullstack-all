@@ -98,6 +98,7 @@ Flexbox | [📺][flexbox-lec] | [🖼️][flexbox-slides] | - | -
   * [🎨 A Single Div][single-div]
   * [🐸 Flexbox Froggy][flexbox-frog]
   * [☣ Flexbox Zombies][flexbox-zombies]
+  * [🌸 CSS Zen Garden] [css-zen-garden]
 
 [htmlcss-lec]: https://www.youtube.com/watch?v=dIYUWpMWEUU
 [htmlcss-slides]: 01-junior/02-css/html_and_css.pdf
