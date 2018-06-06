@@ -102,7 +102,7 @@ Flexbox | [📺][flexbox-lec] | [🖼️][flexbox-slides] | - | -
 
 [htmlcss-lec]: https://www.youtube.com/watch?v=dIYUWpMWEUU
 [htmlcss-slides]: 01-junior/02-css/html_and_css.pdf
-[boxing-lec]: https://youtu.be/2fuoTYJUySI 
+[boxing-lec]: https://youtu.be/2fuoTYJUySI
 [boxing-slides]: 01-junior/02-css/intro_to_boxing.pdf
 [flexbox-lec]: https://www.youtube.com/watch?v=SPW0HeI8u6E
 [flexbox-slides]: 01-junior/02-css/flexbox.pdf
@@ -113,5 +113,35 @@ Flexbox | [📺][flexbox-lec] | [🖼️][flexbox-slides] | - | -
 [codepen]: https://codepen.io/
 [css-tricks-flexbox]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
 [css-zen-garden]: http://csszengarden.com/
+
+##### Collaboration and Git
+
+* Pre-Work: see pre-reading in LearnDot workshops for Wednesday!
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Pairing | [📺][pairing-video-1] | [🖼️][pairing-slides-1] | - | -
+Git - Getting Confident | [📺][pairing-video-2] | [🖼️][pairing-slides-2] | - | -
+Practical Debugging - Prevention | [📺][pairing-video-3] | [🖼️][pairing-slides-3] | - | -
+Practical Debugging - DDT | [📺][pairing-video-4] | [🖼️][pairing-slides-4] | - | -
+
+* Homework
+  * [📚 debugging homework][pairing-debugging-homework]
+  * [📚 configuring Git][https://gist.github.com/cassiozen/340b664c6b0c4b01d17dd15f835344e4]
+
+* Resources
+  * [💻 git workflow exercise][pairing-git-workflow-exercise]
+
+
+[pairing-debugging-homework]: 01-junior/03-collaboration/javascript-debugging-homework.md
+[pairing-slides-1]: 01-junior/03-collaboration/pair-programming.pdf
+[pairing-video-1]: https://youtu.be/FG1v9ifF-lg
+[pairing-slides-2]: 01-junior/03-collaboration/git.pdf
+[pairing-video-2]: https://youtu.be/tD48EqqK3pE
+[pairing-slides-3]: 01-junior/03-collaboration/debugging-prevention.pdf
+[pairing-video-3]: https://youtu.be/b9_gGXlpjEU
+[pairing-slides-4]: 01-junior/03-collaboration/debugging-detection-diagnosis.pdf
+[pairing-video-4]: https://youtu.be/T09XFKbZ1sk
+[pairing-git-workflow-exercise]: http://git.fullstackacademy.com/
 
 </details>
