@@ -77,4 +77,41 @@ Hash Tables | [📺][ds-4a] | — | — | —
 [ds-3d]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmkvOhyAm1NUJ023D8PyaD-B
 [ds-4a]: https://youtu.be/_ly0_BpLJdk
 
+#### Day 2
+
+##### HTML & CSS
+
+* Pre-Work: see pre-reading in LearnDot workshops for Tuesday!
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+HTML & CSS | [📺][htmlcss-lec] | [🖼️][htmlcss-slides] | - | -
+Intro To Boxing | [📺][boxing-lec] | [🖼️][boxing-slides] | - | -
+Flexbox | [📺][flexbox-lec] | [🖼️][flexbox-slides] | - | -
+
+* Homework
+  * [📺 Landing Site Solution][landing-solution]
+  * [📚 CSS Tricks - Flexbox][css-tricks-flexbox]
+* Utility
+  * [💻 Codepen][codepen]
+* Bonus Fun
+  * [🎨 A Single Div][single-div]
+  * [🐸 Flexbox Froggy][flexbox-frog]
+  * [☣ Flexbox Zombies][flexbox-zombies]
+  * [🌸 CSS Zen Garden][css-zen-garden]
+
+[htmlcss-lec]: https://www.youtube.com/watch?v=dIYUWpMWEUU
+[htmlcss-slides]: 01-junior/02-css/html_and_css.pdf
+[boxing-lec]: https://youtu.be/2fuoTYJUySI 
+[boxing-slides]: 01-junior/02-css/intro_to_boxing.pdf
+[flexbox-lec]: https://www.youtube.com/watch?v=SPW0HeI8u6E
+[flexbox-slides]: 01-junior/02-css/flexbox.pdf
+[landing-solution]: https://www.youtube.com/watch?v=yTH1Wdl_ep8
+[flexbox-frog]: https://flexboxfroggy.com/
+[flexbox-zombies]: https://flexboxzombies.com/p/flexbox-zombies
+[single-div]: https://a.singlediv.com/
+[codepen]: https://codepen.io/
+[css-tricks-flexbox]: https://css-tricks.com/snippets/css/a-guide-to-flexbox/
+[css-zen-garden]: http://csszengarden.com/
+
 </details>
