@@ -128,6 +128,7 @@ Practical Debugging - DDT | [📺][pairing-video-4] | [🖼️][pairing-slides-4
 * Homework
   * [📚 debugging homework][pairing-debugging-homework]
   * [📚 configuring Git][https://gist.github.com/cassiozen/340b664c6b0c4b01d17dd15f835344e4]
+  * [📚 Implicit Association Test][https://implicit.harvard.edu/implicit/takeatest.html]
 
 * Resources
   * [💻 git workflow exercise][pairing-git-workflow-exercise]
