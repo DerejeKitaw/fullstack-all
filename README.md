@@ -145,4 +145,25 @@ Practical Debugging - DDT | [📺][pairing-video-4] | [🖼️][pairing-slides-4
 [pairing-video-4]: https://youtu.be/T09XFKbZ1sk
 [pairing-git-workflow-exercise]: http://git.fullstackacademy.com/
 
+##### DOM and Events
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Intro to the DOM | [📺][DOM-video-1] | [🖼️][DOM-slides-1] | [👾][DOM-solution-1] | [📺][selector-video-review]
+Event Listeners | [📺][DOM-video-2] | [🖼️][DOM-slides-2] | [👾][DOM-solution-2] | [📺][DOM-video-review]
+
+* Homework
+  * [📺 selector review video][selector-video-review]
+  * [📺 pixelate review video][DOM-video-review]
+
+[DOM-slides-1]: 01-junior/04-DOM/intro-to-the-dom.pdf
+[DOM-video-1]: https://youtu.be/9ovv14NkAtw
+[DOM-solution-1]: 01-junior/04-DOM/PairExercise.Selector.Solution
+[DOM-slides-2]: 01-junior/04-DOM/event-listeners-and-handlers.pdf
+[DOM-video-2]: https://youtu.be/1NDZ0rHu0Rg
+[DOM-solution-2]: 01-junior/04-DOM/PairExercise.Pixelate.Solution
+[DOM-video-review]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmlGmcCCcsf9os6lVu0l5kg-
+[selector-video-review]: https://youtu.be/vUcbywLzQS4
+
+
 </details>
