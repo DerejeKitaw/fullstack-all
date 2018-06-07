@@ -102,7 +102,7 @@ Flexbox | [📺][flexbox-lec] | [🖼️][flexbox-slides] | - | -
 
 [htmlcss-lec]: https://www.youtube.com/watch?v=dIYUWpMWEUU
 [htmlcss-slides]: 01-junior/02-css/html_and_css.pdf
-[boxing-lec]: https://youtu.be/2fuoTYJUySI 
+[boxing-lec]: https://www.youtube.com/watch?v=Xt2KCME1gIw
 [boxing-slides]: 01-junior/02-css/intro_to_boxing.pdf
 [flexbox-lec]: https://www.youtube.com/watch?v=SPW0HeI8u6E
 [flexbox-slides]: 01-junior/02-css/flexbox.pdf
