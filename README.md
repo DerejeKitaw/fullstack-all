@@ -212,8 +212,8 @@ Client-Server Architecture & HTTP | [📺][clientServer-lec] | [🖼️][clientS
 [algoFT-slides]: 01-junior/06-algorithms/algo_ft.pdf
 [clientServer-lec]: https://youtu.be/gRE9vz6hCo0
 [clientServer-slides]: 01-junior/06-algorithms/client_server.pdf
-[bubble-solution]: 
-[merge-solution]: 
+[bubble-solution]: https://github.com/FullstackAcademy/1806-GH-NY/blob/master/01-junior/06-algorithms/sorting-solution/bubblesort.js
+[merge-solution]: https://github.com/FullstackAcademy/1806-GH-NY/blob/master/01-junior/06-algorithms/sorting-solution/mergesort.js
 [bubbleMerge-review]: https://www.youtube.com/watch?v=Dz0NkaBp-FM
 [cheatSheet]: http://bigocheatsheet.com/
 [bubble-resource]: https://www.youtube.com/watch?v=aXXWXz5rF64
