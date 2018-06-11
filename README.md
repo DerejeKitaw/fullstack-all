@@ -177,4 +177,49 @@ Game of Life | 📺 Coming Soon! | 🖼️ coming soon! | [👾][GOL-solution] |
 [GOL-solution]: https://github.com/FullstackAcademy/Solution.GameOfLife
 [GOL-review]: https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC
 
+#### Day 6
+
+##### Algorithms & Analysis
+
+* Pre-Work: see pre-reading in LearnDot workshops for Tuesday!
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Algorithms & Analysis | [📺][algoAnalysis-lec] | [🖼️][algoAnalysis-slides] | - | -
+Sorting: Bubble Sort | [📺][bubble-lec] | [🖼️][bubble-slides] | [👾] [Bubble Sort Solution] | [📺] [bubbleMerge-review]
+Sorting: Merge Sort | [📺][merge-lec] | [🖼️][merge-slides] | [👾] [Merge Sort Solution] | -
+Algorithms: Final Thoughts | [📺][algoFT-lec] | [🖼️][algoFT-slides] | - | -
+Client-Server Architecture & HTTP | [📺][clientServer-lec] | [🖼️][clientServer-slides] | - | -
+
+* Homework
+  * Review solutions for bubble sort and merge sort
+  * Watch review video on bubble sort and merge sort
+* Resources
+  * [📚 Big O Cheat Sheet][cheatSheet]
+  * [📚 Bubble Sort][bubble-resource]
+  * [📚 MergeSort][merge-resource]
+  * [📚 Visualgo][visualgo-resource]
+  * [📚 Time Complexity][complexity-resource]
+  * [📚 Logarithms][log-resource]
+
+[algoAnalysis-lec]: https://youtu.be/olJJ914dcu8
+[algoAnalysis-slides]: 01-junior/06-algorithms/algo_analysis.pdf
+[bubble-lec]: https://youtu.be/_HCFsrYMg1M
+[bubble-slides]: 01-junior/06-algorithms/bubble_sort.pdf
+[merge-lec]: https://youtu.be/ZIZ_bhhyLms
+[merge-slides]: 01-junior/06-algorithms/merge_sort.pdf
+[algoFT-lec]: https://youtu.be/iZhoyQrejxU
+[algoFT-slides]: 01-junior/06-algorithms/algo_ft.pdf
+[clientServer-lec]: https://youtu.be/gRE9vz6hCo0
+[clientServer-slides]: 01-junior/06-algorithms/client_server.pdf
+[bubble-solution]: 
+[merge-solution]: 
+[bubbleMerge-review]: https://www.youtube.com/watch?v=Dz0NkaBp-FM
+[cheatSheet]: http://bigocheatsheet.com/
+[bubble-resource]: https://www.youtube.com/watch?v=aXXWXz5rF64
+[merge-resource]: https://www.youtube.com/watch?v=es2T6KY45cA
+[visualgo-resource]: https://visualgo.net/en
+[complexity-resource]: https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity
+[log-resource]: https://www.interviewcake.com/article/python/logarithms
+
 </details>
