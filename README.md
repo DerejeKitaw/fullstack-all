@@ -186,8 +186,8 @@ Game of Life | 📺 Coming Soon! | 🖼️ coming soon! | [👾][GOL-solution] |
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 Algorithms & Analysis | [📺][algoAnalysis-lec] | [🖼️][algoAnalysis-slides] | - | -
-Sorting: Bubble Sort | [📺][bubble-lec] | [🖼️][bubble-slides] | [👾][Bubble Sort Solution] | [📺][bubbleMerge-review]
-Sorting: Merge Sort | [📺][merge-lec] | [🖼️][merge-slides] | [👾][Merge Sort Solution] | -
+Sorting: Bubble Sort | [📺][bubble-lec] | [🖼️][bubble-slides] | [👾][bubble-solution] | [📺][bubbleMerge-review]
+Sorting: Merge Sort | [📺][merge-lec] | [🖼️][merge-slides] | [👾][merge-solution] | -
 Algorithms: Final Thoughts | [📺][algoFT-lec] | [🖼️][algoFT-slides] | - | -
 Client-Server Architecture & HTTP | [📺][clientServer-lec] | [🖼️][clientServer-slides] | - | -
 
