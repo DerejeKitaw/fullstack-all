@@ -236,14 +236,27 @@ Client-Server Architecture & HTTP | [📺][clientServer-lec] | [🖼️][clientS
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
-Node part 1 | [📺][NODE-EXPRESS-lec-1a] | [🖼️][NODE-EXPRESS-slides-1a] | — | -
-Node part 2 | [📺][NODE-EXPRESS-lec-1b] | [🖼️][NODE-EXPRESS-slides-1b] | - | -
+Node part 1 | [📺][NODE-EXPRESS-lec-1a] | [🖼️][NODE-EXPRESS-slides-1a] | - | -
+Node part 2 | [📺][NODE-EXPRESS-lec-1b] | [🖼️][NODE-EXPRESS-slides-1b] | [👾][NODE-EXPRESS-solution-code-1] | -
+Express part 1 | [📺][NODE-EXPRESS-lec-2a] | [️🖼️️][NODE-EXPRESS-slides-2a] | — | —
+Express part 2 | [📺][NODE-EXPRESS-lec-2b] | [️🖼️️][NODE-EXPRESS-slides-2b] | [👾][NODE-EXPRESS-solution-code-2] | [📺][NODE-EXPRESS-solution-vid]
 
-[NODE-EXPRESS-slides-1a]: 01-junior/07-node-and-express/node-intro.pdf
-[NODE-EXPRESS-slides-1b]: 01-junior/07-node-and-express/asynchronicity-intro.pdf
-[NODE-EXPRESS-slides-2a]: 01-junior/07-node-and-express/express-101.pdf
-[NODE-EXPRESS-slides-2b]: 01-junior/07-node-and-express/express-201.pdf
+- Homework
+  - [📺 What the heck is the event loop anyway?][NODE-EXPRESS-hw]
+  - [📺 node and express pair exercise reviews][NODE-EXPRESS-solution-vid]
+
+[NODE-EXPRESS-slides-1a]: 01-junior/07-node-and-express/node/node-intro.pdf
+[NODE-EXPRESS-slides-1b]: 01-junior/07-node-and-express/node/asynchronicity-intro.pdf
+[NODE-EXPRESS-slides-2a]: 01-junior/07-node-and-express/express/express-101.pdf
+[NODE-EXPRESS-slides-2b]: 01-junior/07-node-and-express/express/express-201.pdf
 [NODE-EXPRESS-lec-1a]: https://youtu.be/Wq2oHarj1To
 [NODE-EXPRESS-lec-1b]: https://youtu.be/Mr6mvooJcR0
+[NODE-EXPRESS-lec-2a]:https://youtu.be/Wq2oHarj1To
+[NODE-EXPRESS-lec-2b]:https://youtu.be/Mr6mvooJcR0
+[NODE-EXPRESS-solution-vid]: https://www.youtube.com/watch?v=UZ5MO-5a2yI
+[NODE-EXPRESS-solution-code-1]: 01-junior/07-node-and-express/node/Solution.NodeShell
+[NODE-EXPRESS-solution-code-2]: 01-junior/07-node-and-express/express/Solution.Wizard-news-part1
+[NODE-EXPRESS-hw]: https://www.youtube.com/watch?v=8aGhZQkoFbQ
+
 
 </details>
