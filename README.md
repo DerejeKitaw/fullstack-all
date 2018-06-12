@@ -177,6 +177,14 @@ Game of Life | 📺 Coming Soon! | 🖼️ coming soon! | [👾][GOL-solution] |
 [GOL-solution]: https://github.com/FullstackAcademy/Solution.GameOfLife
 [GOL-review]: https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC
 
+</details>
+
+### Week 2
+
+Algorithms, Node, Express, Postgres, Sequelize
+
+<details><summary>Click to Open</summary>
+
 #### Day 6
 
 ##### Algorithms & Analysis
@@ -221,5 +229,21 @@ Client-Server Architecture & HTTP | [📺][clientServer-lec] | [🖼️][clientS
 [visualgo-resource]: https://visualgo.net/en
 [complexity-resource]: https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity
 [log-resource]: https://www.interviewcake.com/article/python/logarithms
+
+#### Day 7
+
+##### Node and Express
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Node part 1 | [📺][NODE-EXPRESS-lec-1a] | [🖼️][NODE-EXPRESS-slides-1a] | — | -
+Node part 2 | [📺][NODE-EXPRESS-lec-1b] | [🖼️][NODE-EXPRESS-slides-1b] | - | -
+
+[NODE-EXPRESS-slides-1a]: 01-junior/07-node-and-express/node-intro.pdf
+[NODE-EXPRESS-slides-1b]: 01-junior/07-node-and-express/asynchronicity-intro.pdf
+[NODE-EXPRESS-slides-2a]: 01-junior/07-node-and-express/express-101.pdf
+[NODE-EXPRESS-slides-2b]: 01-junior/07-node-and-express/express-201.pdf
+[NODE-EXPRESS-lec-1a]: https://youtu.be/Wq2oHarj1To
+[NODE-EXPRESS-lec-1b]: https://youtu.be/Mr6mvooJcR0
 
 </details>
