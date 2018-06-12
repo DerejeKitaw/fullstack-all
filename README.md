@@ -169,13 +169,19 @@ Event Listeners | [📺][DOM-video-2] | [🖼️][DOM-slides-2] | [👾][DOM-sol
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
-Game of Life | 📺 Coming Soon! | 🖼️ coming soon! | [👾][GOL-solution] | [📺][GOL-review]
+Game of Life | [📺][GOL-video-1] | [🖼️][GOL-slides-1] | [👾][GOL-solution] | [📺][GOL-review]
 
 * Homework
   * [📺 Game of Life review playlist][GOL-review]
 
+* Resources
+  * [💻 Advanced Topics in Conway's Game of Life][GOL-video-2]
+
 [GOL-solution]: https://github.com/FullstackAcademy/Solution.GameOfLife
 [GOL-review]: https://www.youtube.com/playlist?list=PLtjHqI8ZTRgIyZ4ngz8r6Qi6l024Ka2bC
+[GOL-slides-1]: 01-junior/05-game-o-life/game-of-life.pdf
+[GOL-video-1]: https://youtu.be/eqQjb2ymwxc
+[GOL-video-2]: https://youtu.be/XVM-1kgbGL8
 
 </details>
 
