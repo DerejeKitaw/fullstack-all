@@ -274,9 +274,9 @@ Express part 2 | [📺][NODE-EXPRESS-lec-2b] | [️🖼️️][NODE-EXPRESS-slid
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
-Intro to Databases | [📺][] | [🖼️][] | - | -
-Intro to SQL | [📺][] | [🖼️][intro-to-sql-SLIDES] | [👾][] | -
-Intro to Schema Design | [📺][] | [️🖼️️][] | — | —
+Intro to Databases | - | - | - | -
+Intro to SQL | - | [🖼️][intro-to-sql-SLIDES] | - | -
+Intro to Schema Design | - | - | — | —
 
 - Homework
 
