@@ -276,15 +276,18 @@ Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 Intro to Databases | [📺][intro-to-databases-LEC] | [🖼️][intro-to-databases-SLIDES]  | - | -
 Intro to SQL | [📺][intro-to-sql-LEC] | [🖼️][intro-to-sql-SLIDES] | - | -
-Intro to Schema Design | - | - | — | —
+Intro to Schema Design | [📺][intro-to-schema-LEC] | [🖼️][intro-to-schema-SLIDES] | — | —
 
-- Homework
+- Resources
+	- [Datacamp free SQL course][datacamp-link]
 
 [intro-to-databases-SLIDES]: 01-junior/08-databases/intro-to-dbs.pdf
 [intro-to-sql-SLIDES]: 01-junior/08-databases/intro-to-sql.pdf
 [intro-to-schema-design-SLIDES]: 01-junior/08-databases/intro-to-schema.pdf
 [intro-to-databases-LEC]: https://www.youtube.com/watch?v=p45PeqKoAXo
 [intro-to-sql-LEC]: https://youtu.be/wLhnI5fmuQg
-[intro-to-schema]:
+[intro-to-schema-SLIDES]: 01-junior/08-databases/intro-to-schema.pdf
+[intro-to-schema-LEC]: https://youtu.be/XayCBVBoJE0
+[datacamp-link]: https://www.datacamp.com/courses/intro-to-sql-for-data-science
 
 </details>
