@@ -274,12 +274,17 @@ Express part 2 | [📺][NODE-EXPRESS-lec-2b] | [️🖼️️][NODE-EXPRESS-slid
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
-Intro to Databases | - | - | - | -
-Intro to SQL | - | [🖼️][intro-to-sql-SLIDES] | - | -
+Intro to Databases | [📺][intro-to-databases-LEC] | [🖼️][intro-to-databases-SLIDES]  | - | -
+Intro to SQL | [📺][intro-to-sql-LEC] | [🖼️][intro-to-sql-SLIDES] | - | -
 Intro to Schema Design | - | - | — | —
 
 - Homework
 
+[intro-to-databases-SLIDES]: 01-junior/08-databases/intro-to-dbs.pdf
 [intro-to-sql-SLIDES]: 01-junior/08-databases/intro-to-sql.pdf
+[intro-to-schema-design-SLIDES]: 01-junior/08-databases/intro-to-schema.pdf
+[intro-to-databases-LEC]: https://www.youtube.com/watch?v=p45PeqKoAXo
+[intro-to-sql-LEC]: https://youtu.be/wLhnI5fmuQg
+[intro-to-schema]:
 
 </details>
