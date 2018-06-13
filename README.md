@@ -268,4 +268,18 @@ Express part 2 | [📺][NODE-EXPRESS-lec-2b] | [️🖼️️][NODE-EXPRESS-slid
 [NODE-EXPRESS-hw]: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 
+#### Day 8
+
+##### Databases & SQL
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Intro to Databases | [📺][] | [🖼️][] | - | -
+Intro to SQL | [📺][] | [🖼️][intro-to-sql-SLIDES] | [👾][] | -
+Intro to Schema Design | [📺][] | [️🖼️️][] | — | —
+
+- Homework
+
+[intro-to-sql-SLIDES]: 01-junior/08-databases/intro-to-sql.pdf
+
 </details>
