@@ -192,7 +192,7 @@ Algorithms, Node, Express, Postgres, Sequelize
 <details><summary>Click to Open</summary>
 
 ##### To do App Review Series
-* Part 1 - Express and templates! - [📺](https://youtu.be/Wq2oHarj1To) | [👾](01-junior/07-express-and-node/morningReview)
+* Part 1 - Express and templates! - [📺](https://youtu.be/F8_bGntFue0) | [👾](01-junior/07-node-and-express/morningReview)
 
 #### Day 6
 
