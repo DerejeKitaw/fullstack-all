@@ -258,10 +258,10 @@ Express part 2 | [📺][NODE-EXPRESS-lec-2b] | [️🖼️️][NODE-EXPRESS-slid
 [NODE-EXPRESS-slides-1b]: 01-junior/07-node-and-express/node/asynchronicity-intro.pdf
 [NODE-EXPRESS-slides-2a]: 01-junior/07-node-and-express/express/express-101.pdf
 [NODE-EXPRESS-slides-2b]: 01-junior/07-node-and-express/express/express-201.pdf
-[NODE-EXPRESS-lec-1a]: https://youtu.be/Wq2oHarj1To
-[NODE-EXPRESS-lec-1b]: https://youtu.be/Mr6mvooJcR0
-[NODE-EXPRESS-lec-2a]:https://youtu.be/Wq2oHarj1To
-[NODE-EXPRESS-lec-2b]:https://youtu.be/Mr6mvooJcR0
+[NODE-EXPRESS-lec-1b]: https://youtu.be/Wq2oHarj1To
+[NODE-EXPRESS-lec-1a]: https://youtu.be/Mr6mvooJcR0
+[NODE-EXPRESS-lec-2a]: https://youtu.be/vxA7LQBq6tY
+[NODE-EXPRESS-lec-2b]: https://youtu.be/hYffB4xRRRE
 [NODE-EXPRESS-solution-vid]: https://www.youtube.com/watch?v=UZ5MO-5a2yI
 [NODE-EXPRESS-solution-code-1]: 01-junior/07-node-and-express/node/Solution.NodeShell
 [NODE-EXPRESS-solution-code-2]: 01-junior/07-node-and-express/express/Solution.Wizard-news-part1
@@ -289,5 +289,27 @@ Intro to Schema Design | [📺][intro-to-schema-LEC] | [🖼️][intro-to-schema
 [intro-to-schema-SLIDES]: 01-junior/08-databases/intro-to-schema.pdf
 [intro-to-schema-LEC]: https://youtu.be/XayCBVBoJE0
 [datacamp-link]: https://www.datacamp.com/courses/intro-to-sql-for-data-science
+
+#### Day 9
+
+##### Async/Await, Postgres in Node, and RESTful routing in Express
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+async/await | [📺][async-await] | [🖼️][async-await-slides] | - | -
+postgres | [📺][postgres-node] | [🖼️][postgres-node-slides] | [👾][solution] | -
+RESTful routing | [📺][restful-express] | [🖼️][restful-express-slides] | [👾][solution] | -
+
+- Homework
+  - [📺 Wizard News Part 2 & 3 Review][wizard-news-2-3-review]
+
+[async-await]: https://youtu.be/F8_bGntFue0
+[async-await-slides]: 01-junior/09-async-and-REST/async-await.pdf
+[postgres-node]: https://youtu.be/ScTNWnjWjkA
+[postgres-node-slides]: 01-junior/09-async-and-REST/node-postgres.pdf
+[restful-express]: https://youtu.be/OzIbRLeX2ZU
+[restful-express-slides]: 01-junior/09-async-and-REST/express-routes-rest.pdf
+[wizard-news-2-3-review]: https://www.youtube.com/playlist?list=PLtjHqI8ZTRgJpqVuKpzG7bOOOUvE9UJMy
+[solution]: 01-junior/09-async-and-REST/Solution.Wizard-news
 
 </details>
