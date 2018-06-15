@@ -312,4 +312,16 @@ RESTful routing | [📺][restful-express] | [🖼️][restful-express-slides] | 
 [wizard-news-2-3-review]: https://www.youtube.com/playlist?list=PLtjHqI8ZTRgJpqVuKpzG7bOOOUvE9UJMy
 [solution]: 01-junior/09-async-and-REST/Solution.Wizard-news
 
+#### Day 10
+
+##### Wikistack
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Sequelize ORM | [📺][wikistack-lec] | [🖼️][wikistack-slides] | - | -
+
+[wikistack-slides]: 01-junior/10-wikistack/intro-to-ORMs.pdf
+[wikistack-lec]: https://youtu.be/e1Pb0EAmmqU
+
+
 </details>
