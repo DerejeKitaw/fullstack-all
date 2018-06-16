@@ -1,7 +1,11 @@
 class Plan {
+  constructor () {
+    this._innerJoins = [];
+  }
   copy () {
     const copiedPlan = new Plan();
     Object.assign(copiedPlan, this);
+    copiedPlan._innerJoins = this._innerJoins.slice();
     return copiedPlan;
   }
   setLimit (amount) {
@@ -63,6 +67,22 @@ class Plan {
     .reduce((intersection, nextRowIds) => {
       return intersection.filter(id => nextRowIds.includes(id));
     });
+  }
+  static merge (rowA, rowB) {
+    return Object.assign({}, rowA, rowB);
+  }
+  addInnerJoin (joinData) {
+    this._innerJoins.push(joinData);
+  }
+  executeJoin (row) {
+    if (this._innerJoins.length === 0) return [row];
+    return this._innerJoins
+    .reduce((all, {foreignFql, rowMatcher}) => {
+      return foreignFql.get()
+      .filter(foreignRow => rowMatcher(row, foreignRow))
+      .map(foreignRow => Plan.merge(foreignRow, row))
+      .concat(all);
+    }, []);
   }
 }
 

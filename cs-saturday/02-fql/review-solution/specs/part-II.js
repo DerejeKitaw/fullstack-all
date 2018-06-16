@@ -346,14 +346,14 @@ describe("Part II: query me this", function () {
       roleQuery = new FQL(roleTable);
     });
 
-    xit("`FQL.merge` merges two objects' key/value pairs", function () {
+    it("`Plan.merge` merges two objects' key/value pairs", function () {
       // this will be useful for concatenating two rows
-      expect(FQL.merge).to.be.a('function');
-      const merged = FQL.merge({a: 1, b: 2}, {a: 100, c: 3});
+      expect(Plan.merge).to.be.a('function');
+      const merged = Plan.merge({a: 1, b: 2}, {a: 100, c: 3});
       expect(merged).to.eql({a: 100, b: 2, c: 3});
     });
 
-    xit("queries can inner join other queries given a matching condition for the self and foreign row", function () {
+    it("queries can inner join other queries given a matching condition for the self and foreign row", function () {
       // make sure `where` is working properly before attempting
       expect(FQL.prototype.innerJoin).to.be.a('function');
       const result = movieQuery

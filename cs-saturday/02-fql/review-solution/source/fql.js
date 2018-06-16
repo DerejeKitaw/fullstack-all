@@ -17,8 +17,11 @@ class FQL {
       if (!this._plan.withinLimit(rows)) break;
       const row = this._table.read(id);
       if (this._plan.matchesRow(row)) {
-        const selectedRow = this._plan.selectColumns(row);
-        rows.push(selectedRow);
+        const joinedRows = this._plan.executeJoin(row);
+        for (const row of joinedRows) {
+          const selectedRow = this._plan.selectColumns(row);
+          rows.push(selectedRow);
+        };
       }
     }
     return rows;
@@ -39,6 +42,11 @@ class FQL {
   where (criteria) {
     const copy = this.copy();
     copy._plan.setCriteria(criteria);
+    return copy;
+  }
+  innerJoin (foreignFql, rowMatcher) {
+    const copy = this.copy();
+    copy._plan.addInnerJoin({foreignFql, rowMatcher});
     return copy;
   }
 }
