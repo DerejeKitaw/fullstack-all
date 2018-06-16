@@ -30,6 +30,24 @@
 
 </details>
 
+## CS Saturday
+
+<details><summary>Click to Open</summary>
+
+### Compilers
+
+- [📺 Lecture](https://youtu.be/FE5MhiYjsA4)
+- [📺 Review](https://youtu.be/WU5yKOa3Sjw)
+
+### FQL
+
+- [📺 Lecture: FQL Intro](https://youtu.be/4A1fxp43OHc)
+- [📺 Live Review: FQL Parts I and II](https://youtu.be/S8MMP0q9ZI8)
+- [📺 Lecture: Indexing](https://youtu.be/zA4wxpdfrHM)
+- [📺 Live Review: FQL Part III](https://youtu.be/5LWxYajTg7M)
+
+</details/>
+
 ## 🐛 Junior Phase
 
 * [📖 PDF: Curriculum Outline](01-junior/Fullstack%20Academy%20Junior%20Phase%20Outline.pdf)
