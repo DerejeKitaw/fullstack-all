@@ -12,7 +12,7 @@ class FQL {
   }
   get () {
     const rows = [];
-    const rowIds = this._table.getRowIds();
+    const rowIds = this._plan.getInitialRowIds(this._table);
     for (const id of rowIds) {
       if (!this._plan.withinLimit(rows)) break;
       const row = this._table.read(id);
