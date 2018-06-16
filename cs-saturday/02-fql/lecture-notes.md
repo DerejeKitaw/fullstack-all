@@ -174,3 +174,23 @@ A car factory might be able to look up certain cars it produced by license plate
 So it makes sense "find by license" is a thing a factory can do, and that a car cannot do, so it should be a *class method*.
 
 It also makes sense that "accelerate" is a thing a car can do and that factory cannot do, so it is / should be an *instance method*.
+
+## indexing
+
+What is indexing? Think about the index at the back of a textbook. An index at the back of a textbook contains "values" (like "Charles Law") as lookup words, and these lookup words point to "indexes", namely page numbers.
+
+An index in databases allows certain queries to be faster. The index is a *separate data structure* stored in parallel with the tables / rows. That index needs to be created, but only one time, and then any future queries that can use it may be significantly faster.
+
+To create an index, we need to choose a table to index and a column to index by. We then create the index table, storing every row value for that column as a key, and storing that row's primary key as a value.
+
+To use an index, in our querying we need to detect whether any criteria match any index tables we have. If so, we should start our query by limiting our search to just those entries that match our index table.
+
+There are different kinds of indexes, e.g. two common types: hashed indexes (this is what we're doing today) and sorted indexes. Sorted indexes are much more common.
+
+Indexing is REALLY COOL and it separates novice database users from intermediate database users. It can be challenging to use, but the core concept is not terribly complicated.
+
+On the other hand, indexing does have downsides...
+
+- Every index table you include adds space / memory / storage
+- When updating tables (updating a row, inserting, deleting), you will also need to update *any* relevant index tables: this will cost extra time on each update, AND it will cost extra "mental weight" for developers working on this
+- Not always good, can make things worse for "homogenous" rows
