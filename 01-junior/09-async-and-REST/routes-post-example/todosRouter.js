@@ -19,12 +19,19 @@ router.get('/add', (req, res, next) => {
 })
 
 router.get('/:id', (req, res, next) => {
- const todo = todoBank.get(req.params.id);
- if (todo) res.send(layout(singleTodo(todo)));
- else {
-   res.status(404);
-   res.send(layout(notFound()));
- }
+
+  const err = new Error('hi');
+  next(err);
+//  try {
+//    const todo = todoBank.get(req.params.id);
+//    if (todo) res.send(layout(singleTodo(todo)));
+//    else {
+//      res.status(404);
+//      res.send(layout(notFound()));
+//    }
+//  } catch(err) {
+//     next(err)
+//  }
 })
 
 router.post('/', (req, res, next) => {

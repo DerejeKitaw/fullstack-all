@@ -7,6 +7,7 @@ const todosRouter = require('./todosRouter');
 const app = express();
 
 app.use(morgan('dev'));
+console.log(express.static(path.join(__dirname, 'public')).toString())
 app.use(express.static(path.join(__dirname, 'public')))
 app.use(bodyParser.urlencoded({extended: true}))
 
