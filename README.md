@@ -343,3 +343,45 @@ Sequelize ORM | [📺][wikistack-lec] | [🖼️][wikistack-slides] | - | -
 
 
 </details>
+
+### Week 3
+
+More async, SPA & AJAX, React
+
+<details><summary>Click to Open</summary>
+
+#### Day 1
+
+##### Event Emitters and Promises
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Event Emitters | [📺][EEP-event-lecture] | [🖼️][EEP-event-slides] | [👾][EEP-event-code] | —
+Promise Mechanics I | [📺][EEP-p-mech-I-lecture] | [🖼️][EEP-p-mech-I-slides] | [👾 `sleep.js`][EEP-p-sleep-code] | —
+Promise Mechanics II | [📺][EEP-p-mech-II-lecture] | [🖼️][EEP-p-mech-II-slides] | [👾 COINTEL][EEP-p-cointel-code] | —
+Promise Structure | [📺][EEP-p-structure-lecture] | [🖼️][EEP-p-structure-slides] | [👾 Plantr][EEP-p-plantr-code] | —
+[Pledge.js (Extra)][EEP-pledge-workshop] | — | — | [👾][EEP-pledge-solution] | [📺][EEP-pledge-videos]
+
+- Homework
+  - [📺 📺 📺 Promise Concepts Video Series](https://www.youtube.com/playlist?list=PLx0iOsdUOUmmZBjhoMfHYJBvDs6qC0yx4)
+- Recommended Resources
+  - [📖 We Have a Problem with Promises](http://pouchdb.com/2015/05/18/we-have-a-problem-with-promises.html)
+  - [📚 Promise List o' Links (Specs, Articles, etc.)](https://learn.fullstackacademy.com/workshop/54aed6c88ef6f60b0064259d/content/54aed94417b7120b00acfff0/text)
+
+[EEP-event-lecture]: https://youtu.be/ZMkhSkXOenA
+[EEP-event-slides]: 01-junior/11-promises/event-emitters.pdf
+[EEP-event-code]: 01-junior/11-promises/Solution.EventEmitter
+[EEP-p-mech-I-lecture]: https://youtu.be/w37oSc68frQ
+[EEP-p-mech-I-slides]: 01-junior/11-promises/promise-mechanics.pdf
+[EEP-p-sleep-code]: 01-junior/11-promises/Solution.sleep.js
+[EEP-p-mech-II-lecture]: https://youtu.be/mHwt50fRmtk
+[EEP-p-mech-II-slides]: 01-junior/11-promises/promise-mechanics-2.pdf
+[EEP-p-cointel-code]: 01-junior/11-promises/Solution.CounterIntelligence
+[EEP-p-structure-lecture]: https://youtu.be/8i45M4t1rh0
+[EEP-p-structure-slides]: 01-junior/11-promises/promise-structure.pdf
+[EEP-p-plantr-code]: 01-junior/11-promises/SampleSolution.Plantr
+[EEP-pledge-workshop]: https://learn.fullstackacademy.com/workshop/54aed6c88ef6f60b0064259d/content/564a5f158f38860300fefd80/text
+[EEP-pledge-solution]: https://github.com/FullstackAcademy/pledge-solution-with-diffs/commits/master
+[EEP-pledge-videos]: https://www.youtube.com/playlist?list=PLdFZ1SKgSJKqdvhkmg7KcLJdfltqdPwf3
+
+</details>
