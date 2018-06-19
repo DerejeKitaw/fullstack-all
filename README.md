@@ -384,4 +384,17 @@ Promise Structure | [📺][EEP-p-structure-lecture] | [🖼️][EEP-p-structure-
 [EEP-pledge-solution]: https://github.com/FullstackAcademy/pledge-solution-with-diffs/commits/master
 [EEP-pledge-videos]: https://www.youtube.com/playlist?list=PLdFZ1SKgSJKqdvhkmg7KcLJdfltqdPwf3
 
+#### Day 2
+
+##### Fullstack Applications
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Express & Sequelize: Rounding Out | [📺][exp_seq_LECTURE] | [🖼️][exp_seq_SLIDES] | - | —
+Client Server Architecture II: Fullstack Applications | - | - | - | —
+Frontend Modules (Webpack) | - | - | - | —
+
+[exp_seq_LECTURE]: https://youtu.be/KMMNOFSMBZw
+[exp_seq_SLIDES]: 01-junior/12-fullstack_apps/exp_seq_rounding_out.pdf
+
 </details>
