@@ -404,4 +404,17 @@ Frontend Modules (Webpack) | [📺][webpack-LECTURE] | - | - | —
 [client_server_arch_SLIDES]: 01-junior/12-fullstack_apps/client_server_arch.pdf
 [webpack-LECTURE]: https://www.youtube.com/watch?v=EBT8OdL1cHo&feature=youtu.be
 
+#### Day 3
+
+##### SPAs & AJAX
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+SPAs & AJAX | [📺][spa_ajax_LECTURE] | [🖼️][spa_ajax_SLIDES] | [👾][spa_ajax_CODE] | —
+ES6 Modules | - | - | - | —
+
+[exp_seq_LECTURE]: https://youtu.be/7K7-W2GgA_E
+[exp_seq_SLIDES]: 01-junior/13-spas/spa_ajax.pdf
+[client_server_arch_SLIDES]: 01-junior/13-spas/fetch_demo
+
 </details>
