@@ -396,6 +396,8 @@ Frontend Modules (Webpack) | [📺][webpack-LECTURE] | - | - | —
 
 - Homework:
 	- [📺 Trip Planner Review Video][https://www.youtube.com/watch?v=2dSP7tj3Lw0&feature=youtu.be]
+	- [👾 Trip Planner Solution][https://github.com/FullstackAcademy/tripplanner-spa-start]
+	- [👾 Wikistack 2 Solution][https://github.com/FullstackAcademy/Solution.Wikistack2]
 
 [exp_seq_LECTURE]: https://youtu.be/KMMNOFSMBZw
 [exp_seq_SLIDES]: 01-junior/12-fullstack_apps/exp_seq_rounding_out.pdf
