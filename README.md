@@ -392,10 +392,14 @@ Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 Express & Sequelize: Rounding Out | [📺][exp_seq_LECTURE] | [🖼️][exp_seq_SLIDES] | - | —
 Client Server Architecture II: Fullstack Applications | - | [🖼️][client_server_arch_SLIDES] | - | —
-Frontend Modules (Webpack) | - | - | - | —
+Frontend Modules (Webpack) | [📺][webpack-LECTURE] | - | - | —
+
+- Homework:
+	- [📺 Trip Planner Review Video][https://www.youtube.com/watch?v=2dSP7tj3Lw0&feature=youtu.be]
 
 [exp_seq_LECTURE]: https://youtu.be/KMMNOFSMBZw
 [exp_seq_SLIDES]: 01-junior/12-fullstack_apps/exp_seq_rounding_out.pdf
 [client_server_arch_SLIDES]: 01-junior/12-fullstack_apps/client_server_arch.pdf
+[webpack-LECTURE]: https://www.youtube.com/watch?v=EBT8OdL1cHo&feature=youtu.be
 
 </details>
