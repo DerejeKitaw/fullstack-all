@@ -411,10 +411,17 @@ Frontend Modules (Webpack) | [📺][webpack-LECTURE] | - | - | —
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 SPAs & AJAX | [📺][spa_ajax_LECTURE] | [🖼️][spa_ajax_SLIDES] | [👾][spa_ajax_CODE] | —
-ES6 Modules | - | - | - | —
+ES6 Modules | [📺][es6_modules_LECTURE] | [🖼️][es6_modules_SLIDES] | - | —
+
+- Homework:
+	- [📺 Trip Planner 2 Review Video](https://www.youtube.com/watch?v=rw5nJ2czncs&feature=youtu.be)
+	- [👾 Trip Planner 2 Solution Code](https://github.com/FullstackAcademy/tripplanner-routing-start)
+
 
 [spa_ajax_LECTURE]: https://youtu.be/7K7-W2GgA_E
 [spa_ajax_SLIDES]: 01-junior/13-spas/spa_ajax.pdf
 [spa_ajax_CODE]: 01-junior/13-spas/fetch_demo
+[es6_modules_LECTURE]: https://youtu.be/O4v8J9dt1ZU
+[es6_modules_SLIDES]: 01-junior/13-spas/es6_modules.pdf
 
 </details>
