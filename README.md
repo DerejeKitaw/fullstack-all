@@ -212,7 +212,7 @@ Algorithms, Node, Express, Postgres, Sequelize
 ##### To do App Review Series
 * Part 1 - Express and templates! - [📺](https://youtu.be/F8_bGntFue0) | [👾](01-junior/07-node-and-express/morningReview)
 
-#### Day 6
+#### Day 1
 
 ##### Algorithms & Analysis
 
@@ -257,7 +257,7 @@ Client-Server Architecture & HTTP | [📺][clientServer-lec] | [🖼️][clientS
 [complexity-resource]: https://www.interviewcake.com/article/python/big-o-notation-time-and-space-complexity
 [log-resource]: https://www.interviewcake.com/article/python/logarithms
 
-#### Day 7
+#### Day 2
 
 ##### Node and Express
 
@@ -286,7 +286,7 @@ Express part 2 | [📺][NODE-EXPRESS-lec-2b] | [️🖼️️][NODE-EXPRESS-slid
 [NODE-EXPRESS-hw]: https://www.youtube.com/watch?v=8aGhZQkoFbQ
 
 
-#### Day 8
+#### Day 3
 
 ##### Databases & SQL
 
@@ -308,7 +308,7 @@ Intro to Schema Design | [📺][intro-to-schema-LEC] | [🖼️][intro-to-schema
 [intro-to-schema-LEC]: https://youtu.be/XayCBVBoJE0
 [datacamp-link]: https://www.datacamp.com/courses/intro-to-sql-for-data-science
 
-#### Day 9
+#### Day 4
 
 ##### Async/Await, Postgres in Node, and RESTful routing in Express
 
@@ -330,7 +330,7 @@ RESTful routing | [📺][restful-express] | [🖼️][restful-express-slides] | 
 [wizard-news-2-3-review]: https://www.youtube.com/playlist?list=PLtjHqI8ZTRgJpqVuKpzG7bOOOUvE9UJMy
 [solution]: 01-junior/09-async-and-REST/Solution.Wizard-news
 
-#### Day 10
+#### Day 5
 
 ##### Wikistack
 
@@ -423,5 +423,32 @@ ES6 Modules | [📺][es6_modules_LECTURE] | [🖼️][es6_modules_SLIDES] | - | 
 [spa_ajax_CODE]: 01-junior/13-spas/fetch_demo
 [es6_modules_LECTURE]: https://youtu.be/O4v8J9dt1ZU
 [es6_modules_SLIDES]: 01-junior/13-spas/es6_modules.pdf
+
+#### Day 4
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+React Intro | [📺][RCT-intro-vid] | [🖼️][RCT-intro-slides] | [👾][RCT-intro-solution] | -
+React State & Props | [📺][RCT-sp-vid] | [🖼️][RCT-sp-slides] | [👾][RCT-sp-solution] | —
+React Lifecycle | [📺][RCT-life-vid] | [🖼️][RCT-life-slides] | [👾][RCT-life-solution] | —
+Data Flow | [📺][RCT-flow-vid] | [🖼️][RCT-flow-slides] | — | —
+
+- Homework
+  - [📺 📺 📺 React Concepts Video Series](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlkkod59nXwkN4iB04beamn)
+- Additional Resources
+  - [💻 Cody's Quiz (bonus workshop)](https://github.com/FullstackAcademy/codys-quiz)
+  - [📚 React Docs (very well written!)](https://reactjs.org/docs)
+
+[RCT-intro-vid]: https://youtu.be/7wmj5at7zs0
+[RCT-intro-slides]: 01-junior/14-react/slides/react-intro.pdf
+[RCT-intro-solution]: 01-junior/14-react/solutions/Lab.FirstComponent.Solution
+[RCT-sp-vid]: https://youtu.be/CDUnTTJVY9U
+[RCT-sp-slides]: 01-junior/14-react/slides/state-and-props.pdf
+[RCT-sp-solution]: 01-junior/14-react/solutions/Lab.PropsAndState.Solution
+[RCT-life-vid]: https://youtu.be/vyboAa4pgnk
+[RCT-life-slides]: 01-junior/14-react/slides/react-lifecycle.pdf
+[RCT-life-solution]: 01-junior/14-react/solutions/PairExercise.ContactList.Solution
+[RCT-flow-vid]: https://youtu.be/Uxh18RhIJmE
+[RCT-flow-slides]: 01-junior/14-react/slides/fullstack-flow.pdf
 
 </details>
