@@ -451,4 +451,13 @@ Data Flow | [📺][RCT-flow-vid] | [🖼️][RCT-flow-slides] | — | —
 [RCT-flow-vid]: https://youtu.be/Uxh18RhIJmE
 [RCT-flow-slides]: 01-junior/14-react/slides/fullstack-flow.pdf
 
+#### Day 5
+
+- [📺 Week 3 review Part 1: Sequelize](https://youtu.be/QMyHmbxJyIQ)
+- [📺 Week 3 review Part 2: Express](https://youtu.be/efiCQL72oYM)
+
+- Homework
+  - [📺 📺 📺 Juke Review Video Series](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlDnS91P6zf3LrIu-ZPs2pG)
+  - [👾 Juke Solution](01-junior/15-juke/PairProject.Juke.Solution)
+
 </details>
