@@ -3,18 +3,26 @@
 const express = require('express');
 const morgan = require('morgan');
 const path = require('path');
-const Bun = require('./db/_db').model('bun');
+const db = require('./db')
 const app = express();
+const bodyParser = require('body-parser');
 
 app.use(morgan('dev'));
 app.use(express.static(path.join(__dirname, '../public')));
+app.use(bodyParser.json())
 
-app.get('/bunnies', async (req, res, next) => {
-  const buns = await Bun.findAll().catch(next);
-  res.json(buns);
-});
+app.use('/bunnies', require('./routes/buns'))
 
+app.use((err, req, res, next) => {
+  res.status = err.status;
+  res.send(`<h1>OOPS, the server broke</h1><p>${err.message}</p>`)
+})
 
-app.listen(3000, () => {
-  console.log('I am listening!');
-});
+const init = async () => {
+  await db.sync();
+  app.listen(3000, () => {
+    console.log('I am listening!');
+  });
+}
+
+init();

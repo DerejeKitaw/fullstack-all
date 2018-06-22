@@ -11,9 +11,11 @@ const Bun = db.define('bun', {
       isAlpha: true
     }
   },
-  image: Sequelize.STRING,
-  validate: {
-    isUrl: true
+  image: {
+    type: Sequelize.STRING,
+    validate: {
+      isUrl: true
+    }
   },
   color: Sequelize.STRING
 })
