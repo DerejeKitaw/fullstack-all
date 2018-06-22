@@ -3,7 +3,7 @@
 const express = require('express');
 const morgan = require('morgan');
 const path = require('path');
-const Bun = require('./db').model('bun');
+const Bun = require('./db/_db').model('bun');
 const app = express();
 
 app.use(morgan('dev'));
