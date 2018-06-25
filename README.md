@@ -474,11 +474,24 @@ Testing, React Router/Forms
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
+Testing Intro | [📺][TST-intro-vid] | [🖼️][TST-intro-slides] | [👾 TDD Katas][TST-intro-code] | —
+Testing Async | [📺][TST-async-vid] | [🖼️][TST-async-slides] | [👾][TST-async-code] | —
 Spies, Stubs, & Mocks | [📺][spies_stubs_LECTURE] | [🖼️][spies_stubs_SLIDES] | - | —
 Front End Testing | - | - |[👾][enzyme_SOLUTION] | -
 
 [spies_stubs_LECTURE]: https://youtu.be/z5fUlhGQW3o
 [spies_stubs_SLIDES]: 01-junior/16-testing/spies_stubs.pdf
 [enzyme_SOLUTION]: 01-junior/16-testing/enzyme
+[TST-intro-vid]: https://youtu.be/6_dA5IDC9hM
+[TST-intro-slides]: 01-junior/16-testing/testing-intro.pdf
+[TST-intro-code]: https://github.com/FullstackAcademy/Lab.Test-Driven-Katas.git
+[TST-async-vid]: https://youtu.be/t4jZXaVmTRs
+[TST-async-slides]: 01-junior/16-testing/testing-async.pdf
+[TST-async-code]: https://github.com/FullstackAcademy/Lab.Spies-Stubs/tree/solution
+
+- Homework
+  - [📖 Writing Great Unit Tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/) (required)
+  - [📖 TDD in Practice](https://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246) (optional)
 
 </details>
+
