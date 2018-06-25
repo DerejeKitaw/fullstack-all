@@ -470,13 +470,15 @@ Testing!
 
 #### Day 1
 
-##### Event Emitters and Promises
+##### Testing, React Router/Forms
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 Spies, Stubs, & Mocks | [📺][spies_stubs_LECTURE] | [🖼️][spies_stubs_SLIDES] | - | —
+Front End Testing | - | - |[👾][enzyme_SOLUTION] | -
 
 [spies_stubs_LECTURE]: https://youtu.be/z5fUlhGQW3o
 [spies_stubs_SLIDES]: 01-junior/16-testing/spies_stubs.pdf
+[enzyme_SOLUTION]: 01-junior/16-testing/enzyme
 
 </details>
