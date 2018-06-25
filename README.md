@@ -464,13 +464,13 @@ Data Flow | [📺][RCT-flow-vid] | [🖼️][RCT-flow-slides] | — | —
 
 ### Week 3
 
-Testing!
+Testing, React Router/Forms
 
 <details><summary>Click to Open</summary>
 
 #### Day 1
 
-##### Testing, React Router/Forms
+##### Testing
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
