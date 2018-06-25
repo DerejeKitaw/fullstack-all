@@ -461,3 +461,22 @@ Data Flow | [📺][RCT-flow-vid] | [🖼️][RCT-flow-slides] | — | —
   - [👾 Juke Solution](01-junior/15-juke/PairProject.Juke.Solution)
 
 </details>
+
+### Week 3
+
+Testing!
+
+<details><summary>Click to Open</summary>
+
+#### Day 1
+
+##### Event Emitters and Promises
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Spies, Stubs, & Mocks | [📺][spies_stubs_LECTURE] | [🖼️][spies_stubs_SLIDES] | - | —
+
+[spies_stubs_LECTURE]: https://youtu.be/z5fUlhGQW3o
+[spies_stubs_SLIDES]: 01-junior/16-testing/spies_stubs.pdf
+
+</details>
