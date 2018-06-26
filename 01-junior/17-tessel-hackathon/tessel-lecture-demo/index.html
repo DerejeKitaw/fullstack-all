@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title>Tessel demo</title>
+</head>
+<body>
+  <p>
+    <button id='fetch-accel-data'>
+      Fetch accelerometer data
+    </button>
+    <pre id='accel-data'></pre>
+  </p>
+  <hr />
+  <p>
+    <input
+      id='servo-position'
+      type='number'
+      min='0'
+      max='1'
+      step='0.01'>
+    <button id='set-servo-position'>
+      Set servo position
+    </button>
+  </p>
+</body>
+<script>
+  const fetchAccelData = document.getElementById('fetch-accel-data');
+  const accelData = document.getElementById('accel-data');
+  fetchAccelData.addEventListener('click', async () => {
+    const response = await fetch('/accelerometer');
+    const data = await response.json();
+    accelData.innerHTML = JSON.stringify(data, null, 2);
+  });
+
+  const setServoPosition = document.getElementById('set-servo-position');
+  const servoPosition = document.getElementById('servo-position');
+  setServoPosition.addEventListener('click', async () => {
+    const position = servoPosition.value;
+    await fetch('/servo', {
+      method: 'PUT',
+      headers: {
+        'Content-Type': 'application/json'
+      },
+      body: JSON.stringify({position: position})
+    })
+  });
+</script>
+</html>
