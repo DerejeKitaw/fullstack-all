@@ -493,5 +493,16 @@ Front End Testing | - | - |[👾][enzyme_SOLUTION] | -
   - [📖 Writing Great Unit Tests](http://blog.stevensanderson.com/2009/08/24/writing-great-unit-tests-best-and-worst-practises/) (required)
   - [📖 TDD in Practice](https://code.tutsplus.com/tutorials/test-driven-javascript-development-in-practice--net-16246) (optional)
 
+#### Day 2
+
+##### Tessel Hackathon
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Tessel Intro | [📺][tessel-intro-vid] | [🖼️][tessel-intro-slides] | - | -
+
+[tessel-intro-vid]: https://youtu.be/bBhJgRTKyiA
+[tessel-intro-slides]: 01-junior/17-tessel-hackathon/Tessel%20Intro.pdf
+
 </details>
 
