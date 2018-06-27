@@ -12,6 +12,7 @@
 * [📖 Oh-My-ZSH cheatsheet](https://github.com/robbyrussell/oh-my-zsh/wiki/Cheatsheet)
 * [📖 MVC vs Redux (Flux)](https://blog.gisspan.com/2017/02/Redux-Vs-MVC,-Why-and-How.html)
 * [📖 Gist: Functional Programming](https://gist.github.com/glebec/a5c9309c7615d4bbdb838a4973e0f9d7)
+* [Study Saturday](https://github.com/FullstackAcademy/study-saturdays)
 
 ## 🥚 Foundations
 
