@@ -511,7 +511,7 @@ Tessel Intro | [📺][tessel-intro-vid] | [🖼️][tessel-intro-slides] | - | -
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
-Morning Q&A | [📺] [morning-qa] | - | - | —
+Morning Q&A | [📺][morning-qa] | - | - | —
 React Router 101 | [📺][react-router-lecture-1] | [🖼️][react-router-slides-1] | - | —
 React Router 201 | [📺][react-router-lecture-2] | [🖼️][react-router-slides-2] | - | —
 Readium | - | - |[👾][readium-solution-code] | -
