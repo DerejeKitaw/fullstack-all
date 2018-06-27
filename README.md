@@ -504,5 +504,27 @@ Tessel Intro | [📺][tessel-intro-vid] | [🖼️][tessel-intro-slides] | - | -
 [tessel-intro-vid]: https://youtu.be/bBhJgRTKyiA
 [tessel-intro-slides]: 01-junior/17-tessel-hackathon/Tessel%20Intro.pdf
 
+#### Day 3
+
+##### React Router
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Morning Q&A | [📺] [morning-qa] | - | - | —
+React Router 101 | [📺][react-router-lecture-1] | [🖼️][react-router-slides-1] | - | —
+React Router 201 | [📺][react-router-lecture-2] | [🖼️][react-router-slides-2] | - | —
+Readium | - | - |[👾][readium-solution-code] | -
+
+[morning-qa]: https://youtu.be/NO1x6R9wqAM
+[react-router-lecture-1]: https://youtu.be/KiCyjUPl8fk
+[react-router-slides-1]: 01-junior/18-react-router/react-router-101.pdf
+[react-router-lecture-2]: https://youtu.be/MDd9xmF5ARs
+[react-router-slides-2]: 01-junior/18-react-router/react-router-201.pdf
+[readium-solution-code]: 01-junior/18-react-router/PairExercise.Readium.Solution
+[readium-vid]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmmMbgrq99wAXpjVs2JVmyK2
+
+- Homework
+  - [📖 Readium Video][readium-vid] -- required!
+
 </details>
 
