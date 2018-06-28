@@ -527,5 +527,19 @@ Readium | - | - |[👾][readium-solution-code] | -
 - Homework
   - [📖 Readium Video][readium-vid] -- required!
 
+#### Day 4
+
+##### React Forms
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Morning Q&A | - | - | - | —
+React Forms 101 | - | [🖼️][react-forms-slides-1] | - | —
+React Forms 201 | - | [🖼️][react-forms-slides-2] | - | —
+Todo List | - | - | - | -
+
+[react-forms-slides-1]: 01-junior/19-react-forms/react-forms-101.pdf
+[react-forms-slides-2]: 01-junior/19-react-forms/react-forms-201.pdf
+
 </details>
 
