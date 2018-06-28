@@ -535,13 +535,14 @@ Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 Morning Q&A | [📺][morning-qa-6-28-18] | - | - | —
 React Forms 101 | [📺][react-forms-lecture-1] | [🖼️][react-forms-slides-1] | - | —
-React Forms 201 | - | [🖼️][react-forms-slides-2] | - | —
+React Forms 201 | [📺][react-forms-lecture-2] | [🖼️][react-forms-slides-2] | - | —
 Todo List | - | - | - | -
 
 [morning-qa-6-28-18]: https://youtu.be/uP4dJ66GpwU
 [react-forms-slides-1]: 01-junior/19-react-forms/react-forms-101.pdf
 [react-forms-lecture-1]: https://youtu.be/a4DGUApEntU
 [react-forms-slides-2]: 01-junior/19-react-forms/react-forms-201.pdf
+[react-forms-lecture-2]: https://youtu.be/598-iOgbB70
 
 </details>
 
