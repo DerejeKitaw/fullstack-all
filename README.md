@@ -536,13 +536,23 @@ Topic | Lecture | Slides | Solution | Review
 Morning Q&A | [📺][morning-qa-6-28-18] | - | - | —
 React Forms 101 | [📺][react-forms-lecture-1] | [🖼️][react-forms-slides-1] | - | —
 React Forms 201 | [📺][react-forms-lecture-2] | [🖼️][react-forms-slides-2] | - | —
-Todo List | - | - | - | -
+Todo List | - | - |[👾][todo-list-solution-code] | -
+React Recap | [📺][react-recap] | - | - | —
 
 [morning-qa-6-28-18]: https://youtu.be/uP4dJ66GpwU
 [react-forms-slides-1]: 01-junior/19-react-forms/react-forms-101.pdf
 [react-forms-lecture-1]: https://youtu.be/a4DGUApEntU
 [react-forms-slides-2]: 01-junior/19-react-forms/react-forms-201.pdf
 [react-forms-lecture-2]: https://youtu.be/598-iOgbB70
+[todo-list-vid]: https://www.youtube.com/playlist?list=PLx0iOsdUOUmnS1eehO0qAX1uBqBP6G113
+[todo-list-solution-code]: 01-junior/19-react-forms/PairExercise.TodoList.Solution
+[react-recap]: https://youtu.be/fwgLOjIWVUY
+
+- Homework
+  - [📖 Readium Video][todo-list-vid]
+  - [📖 How does the internet work](https://web.stanford.edu/class/msande91si/www-spr04/readings/week1/InternetWhitepaper.htm)
+  - [📖 Websockets](https://pusher.com/websockets)
+  - [📖 Intro to Websocks](http://blog.teamtreehouse.com/an-introduction-to-websockets)
 
 </details>
 
