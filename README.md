@@ -511,12 +511,12 @@ Tessel Intro | [📺][tessel-intro-vid] | [🖼️][tessel-intro-slides] | - | -
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
-Morning Q&A | [📺][morning-qa] | - | - | —
+Morning Q&A | [📺][morning-qa-6-27-18] | - | - | —
 React Router 101 | [📺][react-router-lecture-1] | [🖼️][react-router-slides-1] | - | —
 React Router 201 | [📺][react-router-lecture-2] | [🖼️][react-router-slides-2] | - | —
 Readium | - | - |[👾][readium-solution-code] | -
 
-[morning-qa]: https://youtu.be/NO1x6R9wqAM
+[morning-qa-6-27-18]: https://youtu.be/NO1x6R9wqAM
 [react-router-lecture-1]: https://youtu.be/KiCyjUPl8fk
 [react-router-slides-1]: 01-junior/18-react-router/react-router-101.pdf
 [react-router-lecture-2]: https://youtu.be/MDd9xmF5ARs
@@ -533,11 +533,12 @@ Readium | - | - |[👾][readium-solution-code] | -
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
-Morning Q&A | - | - | - | —
+Morning Q&A | [📺][morning-qa-6-28-18] | - | - | —
 React Forms 101 | - | [🖼️][react-forms-slides-1] | - | —
 React Forms 201 | - | [🖼️][react-forms-slides-2] | - | —
 Todo List | - | - | - | -
 
+[morning-qa-6-28-18]: https://youtu.be/uP4dJ66GpwU
 [react-forms-slides-1]: 01-junior/19-react-forms/react-forms-101.pdf
 [react-forms-slides-2]: 01-junior/19-react-forms/react-forms-201.pdf
 
