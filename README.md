@@ -554,5 +554,22 @@ React Recap | [📺][react-recap] | - | - | —
   - [📖 Websockets](https://pusher.com/websockets)
   - [📖 Intro to Websocks](http://blog.teamtreehouse.com/an-introduction-to-websockets)
 
+#### Day 5
+
+##### Socket.io
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Event Emitters and Long Polling| [📺][ee-lecture] | [🖼️][ee-slides] | - | —
+The Internet and Sockets | [📺][socket-lecture] | [🖼️][socket-slides] | - | —
+
+[ee-slides]: 
+[ee-lecture]: 
+[socket-lecture]: 
+[socket-slides]: 
+[www-vid]: 
+
+- Homework
+  - [📖 World Wide Whiteboard Video][www-vid]
+
 </details>
 

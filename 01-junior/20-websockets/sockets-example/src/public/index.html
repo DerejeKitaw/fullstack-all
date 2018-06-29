@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Hello</title>
+  </head>
+  <body>
+    <h1>Welcome to Sockets Land</h1>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/socket.io/2.0.4/socket.io.js"></script>
+    <script>
+      const socket = window.io()
+      socket.emit('message', 'Hiiii!')
+
+      socket.on('message-from-someone-else', (payload) => {
+        console.log('Got a message!')
+        console.log(payload)
+      })
+    </script>
+  </body>
+</html>
