@@ -562,10 +562,10 @@ Topic | Lecture | Slides | Solution | Review
 Event Emitters and Long Polling| [📺][ee-lecture] | [🖼️][ee-slides] | - | —
 The Internet and Sockets | [📺][socket-lecture] | [🖼️][socket-slides] | - | —
 
-[ee-slides]: 
-[ee-lecture]: 
-[socket-lecture]: 
-[socket-slides]: 
+[ee-slides]: 01-junior/20-websockets/101.pdf
+[ee-lecture]: https://youtu.be/L0HfC70RBts
+[socket-slides]: 01-junior/20-websockets/201.pdf
+[socket-lecture]: https://youtu.be/NVPt7hFinU4
 [www-vid]: 
 
 - Homework
