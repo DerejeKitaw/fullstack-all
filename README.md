@@ -561,12 +561,16 @@ Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 Event Emitters and Long Polling| [📺][ee-lecture] | [🖼️][ee-slides] | - | —
 The Internet and Sockets | [📺][socket-lecture] | [🖼️][socket-slides] | - | —
+World Wide Whiteboard | - | - |[👾][www-solution-code] | -
+Weekly Review | [📺][weekly-review-4] | - | - | —
 
 [ee-slides]: 01-junior/20-websockets/101.pdf
 [ee-lecture]: https://youtu.be/L0HfC70RBts
 [socket-slides]: 01-junior/20-websockets/201.pdf
 [socket-lecture]: https://youtu.be/NVPt7hFinU4
-[www-vid]: 
+[www-vid]: https://www.youtube.com/playlist?list=PLF3vJJDZsN7L1zflPTS3VB8hsoU0_I2ZE
+[weekly-review-4]: https://youtu.be/LF8wElnxAsc
+[www-solution-code]: 01-junior/20-websockets/world-wide-whiteboard
 
 - Homework
   - [📖 World Wide Whiteboard Video][www-vid]
