@@ -592,14 +592,25 @@ Topic | Lecture | Slides | Solution | Review
 Morning QA | [📺][morning-qa-7-2-18] | - | - | -
 Functional Programming (pt 1) | [📺][fp_intro_1] | [🖼️][fp_intro_slides] | - | -
 Functional Programming (pt 2) | [📺][fp_intro_2] | - | - | -
+Composition and Currying | [📺][composition_currying] | [🖼️][composition_currying_slides] | - | -
+Immutable DS | [📺][immutable-ds] | [🖼️][immutable-ds-slides] | - | -
 
 [morning-qa-7-2-18]: https://youtu.be/UFPwXIQfYGc
 [fp_intro_1]: https://youtu.be/Xw10Zf39oTw
 [fp_intro_slides]: 01-junior/21-functional-programming/intro_to_fp.pdf
 [fp_intro_2]: https://youtu.be/iN75HKoOJTk
+[composition_currying]: https://youtu.be/jBRhTWa2MUM
+[composition_currying_slides]: 01-junior/21-functional-programming/03-composition-and-currying.pdf
+[immutable-ds]: 
+[immutable-ds-slides]: 01-junior/21-functional-programming/04-immutable-ds.pdf
 
 - Homework
-  - [📖 ]()
+  - [📖 Jamda Review Video](https://www.youtube.com/watch?v=agzXoJYamVk)
+  - [📖 PointFree Review Video](https://youtu.be/6JsIRaQUDtY)
+  - [📖 Render Props](https://reactjs.org/docs/render-props.html)
+  - [📖 Higher Order Components](https://reactjs.org/docs/higher-order-components.html)
+  - [📖 Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
+  - [📖 Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 
 </details>
 
