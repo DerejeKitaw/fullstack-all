@@ -601,7 +601,7 @@ Immutable DS | [📺][immutable-ds] | [🖼️][immutable-ds-slides] | - | -
 [fp_intro_2]: https://youtu.be/iN75HKoOJTk
 [composition_currying]: https://youtu.be/jBRhTWa2MUM
 [composition_currying_slides]: 01-junior/21-functional-programming/03-composition-and-currying.pdf
-[immutable-ds]: 
+[immutable-ds]: https://youtu.be/bLt7ADQWZMc
 [immutable-ds-slides]: 01-junior/21-functional-programming/04-immutable-ds.pdf
 
 - Homework
