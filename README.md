@@ -463,7 +463,7 @@ Data Flow | [📺][RCT-flow-vid] | [🖼️][RCT-flow-slides] | — | —
 
 </details>
 
-### Week 3
+### Week 4
 
 Testing, React Router/Forms
 
@@ -574,6 +574,27 @@ Weekly Review | [📺][weekly-review-4] | - | - | —
 
 - Homework
   - [📖 World Wide Whiteboard Video][www-vid]
+
+</details>
+
+### Week 5
+
+Functional Programming, React Design Patterns, Redux
+
+<details><summary>Click to Open</summary>
+
+#### Day 1
+
+##### Testing
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Morning QA | [📺][morning-qa-7-2-18] | - | - | -
+
+[morning-qa-7-2-18]: https://youtu.be/UFPwXIQfYGc
+
+- Homework
+  - [📖 ]()
 
 </details>
 
