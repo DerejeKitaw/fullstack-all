@@ -585,13 +585,18 @@ Functional Programming, React Design Patterns, Redux
 
 #### Day 1
 
-##### Testing
+##### Functional Programming
 
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 Morning QA | [📺][morning-qa-7-2-18] | - | - | -
+Functional Programming (pt 1) | [📺][fp_intro_1] | [🖼️][fp_intro_slides] | - | -
+Functional Programming (pt 2) | [📺][fp_intro_2] | - | - | -
 
 [morning-qa-7-2-18]: https://youtu.be/UFPwXIQfYGc
+[fp_intro_1]: https://youtu.be/Xw10Zf39oTw
+[fp_intro_slides]: 01-junior/21-functional-programming/intro_to_fp.pdf
+[fp_intro_2]: https://youtu.be/iN75HKoOJTk
 
 - Homework
   - [📖 ]()
