@@ -593,7 +593,7 @@ Morning QA | [📺][morning-qa-7-2-18] | - | - | -
 Functional Programming (pt 1) | [📺][fp_intro_1] | [🖼️][fp_intro_slides] | - | -
 Functional Programming (pt 2) | [📺][fp_intro_2] | - | [👾][jamda-solution] | -
 Composition and Currying | [📺][composition_currying] | [🖼️][composition_currying_slides] | [👾][pointfree-solution] | -
-Immutable DS | [📺][immutable-ds] | [🖼️][immutable-ds-slides] | - | -
+Immutable DS | [📺][immutable-ds] | [🖼️][immutable-ds-slides] |[👾][immutbale-ds-solution] | -
 
 [morning-qa-7-2-18]: https://youtu.be/UFPwXIQfYGc
 [fp_intro_1]: https://youtu.be/Xw10Zf39oTw
@@ -603,6 +603,9 @@ Immutable DS | [📺][immutable-ds] | [🖼️][immutable-ds-slides] | - | -
 [composition_currying_slides]: 01-junior/21-functional-programming/03-composition-and-currying.pdf
 [immutable-ds]: https://youtu.be/bLt7ADQWZMc
 [immutable-ds-slides]: 01-junior/21-functional-programming/04-immutable-ds.pdf
+[jamda-solution]: https://github.com/FullstackAcademy/PairExercise.Jamda/tree/f/solution
+[pointfree-solution]: https://github.com/FullstackAcademy/Lab.PointFree/tree/solution
+[immutable-ds-solution]: 01-junior/21-functional-programming/PairExercise.ImmutableLinkedList.Solution
 
 - Homework
   - [📖 Jamda Review Video](https://www.youtube.com/watch?v=agzXoJYamVk)
