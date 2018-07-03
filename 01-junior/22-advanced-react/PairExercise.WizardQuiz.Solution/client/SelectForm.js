@@ -15,7 +15,7 @@ const SelectForm = (props) => {
         <option value=''>--</option>
         {
           choices.map(choice => (
-            <option key={choice.value} value={choice.value}>{choice.label}</option>
+            <option key={choice.id} value={choice.value}>{choice.label}</option>
           ))
         }
       </select>

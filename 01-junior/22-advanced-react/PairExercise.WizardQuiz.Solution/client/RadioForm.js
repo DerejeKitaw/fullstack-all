@@ -13,7 +13,7 @@ const RadioForm = (props) => {
       <label>{name}</label>
       {
         choices.map(choice => (
-          <label key={choice.value}>
+          <label key={choice.id}>
             <input
               type='radio'
               value={choice.value}
