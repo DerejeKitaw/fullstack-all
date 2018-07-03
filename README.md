@@ -615,5 +615,28 @@ Immutable DS | [📺][immutable-ds] | [🖼️][immutable-ds-slides] |[👾][imm
   - [📖 Error Boundaries](https://reactjs.org/docs/error-boundaries.html)
   - [📖 Thinking in Ramda](http://randycoulman.com/blog/categories/thinking-in-ramda/)
 
+#### Day 2
+
+##### React Design Patterns
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Advanced Lifecycle | [📺][advanced_lifecycle] | [🖼️][advanced_lifecycle_slides] | - | -
+Prop Patterns | [📺][react_children] | [🖼️][react_children_slides] | - | -
+Render Props | [📺][render_props] | [🖼️][render_props_slides] | - | -
+Higher Order Components | [📺][hoc] | [🖼️][hoc_slides] | - | -
+
+[advanced_lifecycle]: https://youtu.be/plb4kUaJ1o4
+[advanced_lifecycle_slides]: 01-junior/22-advanced-react/advanced-react-lifecycle.pdf
+[react_children]: https://youtu.be/Ga9FuDvht48
+[react_children_slides]: 01-junior/22-advanced-react/prop-patterns.pdf
+[render_props]: https://youtu.be/FItJaW6M5Jg
+[render_props_slides]: 01-junior/22-advanced-react/render-props.pdf
+[hoc]:
+[hoc_slides]: 01-junior/22-advanced-react/higher-order-components.pdf
+
+- Homework
+  - [📖 Wizard Quiz Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlMX-S5jMgJQGMDQFXGpAsf)
+
 </details>
 
