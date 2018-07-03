@@ -593,7 +593,7 @@ Morning QA | [📺][morning-qa-7-2-18] | - | - | -
 Functional Programming (pt 1) | [📺][fp_intro_1] | [🖼️][fp_intro_slides] | - | -
 Functional Programming (pt 2) | [📺][fp_intro_2] | - | [👾][jamda-solution] | -
 Composition and Currying | [📺][composition_currying] | [🖼️][composition_currying_slides] | [👾][pointfree-solution] | -
-Immutable DS | [📺][immutable-ds] | [🖼️][immutable-ds-slides] |[👾][immutbale-ds-solution] | -
+Immutable DS | [📺][immutable-ds] | [🖼️][immutable-ds-slides] |[👾][immutable-ds-solution] | -
 
 [morning-qa-7-2-18]: https://youtu.be/UFPwXIQfYGc
 [fp_intro_1]: https://youtu.be/Xw10Zf39oTw
