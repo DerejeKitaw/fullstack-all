@@ -625,6 +625,7 @@ Advanced Lifecycle | [📺][advanced_lifecycle] | [🖼️][advanced_lifecycle_s
 Prop Patterns | [📺][react_children] | [🖼️][react_children_slides] | - | -
 Render Props | [📺][render_props] | [🖼️][render_props_slides] | - | -
 Higher Order Components | [📺][hoc] | [🖼️][hoc_slides] | - | -
+Wizard Quiz | - | - | [👾][wizard_quiz_sol] | -
 
 [advanced_lifecycle]: https://youtu.be/plb4kUaJ1o4
 [advanced_lifecycle_slides]: 01-junior/22-advanced-react/advanced-react-lifecycle.pdf
@@ -632,8 +633,9 @@ Higher Order Components | [📺][hoc] | [🖼️][hoc_slides] | - | -
 [react_children_slides]: 01-junior/22-advanced-react/prop-patterns.pdf
 [render_props]: https://youtu.be/FItJaW6M5Jg
 [render_props_slides]: 01-junior/22-advanced-react/render-props.pdf
-[hoc]:
+[hoc]: https://youtu.be/29WHRFQYHT8
 [hoc_slides]: 01-junior/22-advanced-react/higher-order-components.pdf
+[wizard_quiz_sol]: 01-junior/22-advanced-react/PairExercise.WizardQuiz.Solution
 
 - Homework
   - [📖 Wizard Quiz Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlMX-S5jMgJQGMDQFXGpAsf)
