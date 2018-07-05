@@ -640,5 +640,28 @@ Wizard Quiz | - | - | [👾][wizard_quiz_sol] | -
 - Homework
   - [📖 Wizard Quiz Review Video](https://www.youtube.com/playlist?list=PLx0iOsdUOUmlMX-S5jMgJQGMDQFXGpAsf)
 
+#### Day 3
+
+##### Redux
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Redux (pt 1) | [📺][redux_1] | [🖼️][intro_to_redux] | - | -
+Redux (pt 2) | [📺][redux_2] | - | - | -
+Redux Middleware | [📺][redux_middleware] | [🖼️][redux_middleware_SLIDES] | - | -
+XOXO | [📺][xoxo_review_video] | - | [👾][xoxo_solution] | -
+
+[redux_1]: https://www.youtube.com/watch?v=2hmHqvbq1kw
+[intro_to_redux]: 01-junior/23-redux/intro_to_redux.pdf
+[redux_2]: https://youtu.be/gbNM1hA1Ot8
+[redux_middleware]: https://youtu.be/8biF2LdhjdY
+[redux_middleware_SLIDES]: 01-junior/23-redux/redux_middleware.pdf
+[xoxo_review_video]: https://youtu.be/zvRXx4qp8ZI
+[xoxo_solution]: https://github.com/FullstackAcademy/1806-FSA-NY-Library/tree/master/01-junior-phase/56-redux/xoxo-solution
+
+- Homework
+  - Review the XOXO solution code and review video!
+  - [Redux: The Single Immutable State Tree](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)
+
 </details>
 
