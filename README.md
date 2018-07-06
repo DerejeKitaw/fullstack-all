@@ -670,11 +670,12 @@ XOXO | [📺][xoxo_review_video] | - | [👾][xoxo_solution] | -
 Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 React/Redux | [📺][react-redux-lecture] | [🖼️][redux-react] | - | -
-Thunks | [📺][] | [🖼️][thunks] | - | -
+Thunks | [📺][thunk-lecture] | [🖼️][thunks] | - | -
 
 [react-redux-lecture]: https://www.youtube.com/watch?v=oAhsAZjEQX4
 [redux-react]: 01-junior/24-react-redux/redux-react.pdf
 [thunks]: 01-junior/24-react-redux/thunks.pdf
+[thunk-lecture]: https://www.youtube.com/watch?v=8wGDsZoPV3Y
 
 - Homework
   - Review the solution for Redux Grocery (in your junior folder)
