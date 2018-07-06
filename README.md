@@ -663,5 +663,20 @@ XOXO | [📺][xoxo_review_video] | - | [👾][xoxo_solution] | -
   - Review the XOXO solution code and review video!
   - [Redux: The Single Immutable State Tree](https://egghead.io/lessons/react-redux-the-single-immutable-state-tree)
 
+#### Day 4
+
+##### React/Redux
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+React/Redux | [📺][] | [🖼️][redux-react] | - | -
+Thunks | [📺][] | [🖼️][thunks] | - | -
+
+[redux-react]: 01-junior/24-react-redux/redux-react.pdf
+[thunks]: 01-junior/24-react-redux/thunks.pdf
+
+- Homework
+  - [OPTIONAL EXTRA PRACTICE: Puppybook - It's Facebook, for Puppies!](https://learn.fullstackacademy.com/workshop/58002c161b7c010003afa920/landing)
+
 </details>
 
