@@ -677,6 +677,8 @@ Thunks | [📺][] | [🖼️][thunks] | - | -
 [thunks]: 01-junior/24-react-redux/thunks.pdf
 
 - Homework
+  - Review the solution for Redux Grocery (in your junior folder)
+  - [Getting Started with Redux](https://egghead.io/lessons/react-redux-react-counter-example)
   - [OPTIONAL EXTRA PRACTICE: Puppybook - It's Facebook, for Puppies!](https://learn.fullstackacademy.com/workshop/58002c161b7c010003afa920/landing)
 
 </details>
