@@ -1,0 +1,21 @@
+.Picker {
+  font-family: "PT Mono", Courier, monospace;
+  width: 30vw;
+  align-self: center;
+}
+
+.Picker .control {
+  display: flex;
+  flex-direction: column;
+  margin-bottom: 1.5rem;
+}
+
+.Picker label {
+  font-size: 1.2rem;
+  font-weight: bold;
+}
+
+.Picker input[type="range"] {
+  flex: 1;
+  margin-top: .5rem;
+}

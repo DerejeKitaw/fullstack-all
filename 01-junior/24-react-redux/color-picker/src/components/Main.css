@@ -1,0 +1,8 @@
+.Main {
+  display: flex;
+  flex-direction: row;
+}
+
+.Main > :not(:last-child) {
+  margin-right: 5vw;
+}

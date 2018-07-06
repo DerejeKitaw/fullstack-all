@@ -1,0 +1,6 @@
+.Preview {
+  box-sizing: border-box;
+  width: 30vw;
+  height: 30vw;
+  border: 1px solid grey;
+}
