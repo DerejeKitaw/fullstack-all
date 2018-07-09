@@ -38,6 +38,14 @@ export const writeMessage = (content) => {
   return { type: WRITE_MESSAGE, content };
 }
 
+// also okay!
+export const clearMessage = () => {
+  return {
+    type: WRITE_MESSAGE,
+    content: ''
+  }
+}
+
 // THUNK CREATORS
 
 export const fetchMessages = () => {
@@ -55,6 +63,9 @@ export const postMessage = (message) => {
     const newMessage = response.data;
     const action = getMessage(newMessage);
     dispatch(action);
+    // also a possibility!
+    // const clearMessageAction = writeMessage('')
+    // dispatch(clearMessageAction)
     socket.emit('new-message', newMessage);
   }
 }
