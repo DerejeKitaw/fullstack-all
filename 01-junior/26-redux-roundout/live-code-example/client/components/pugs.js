@@ -4,6 +4,8 @@ const Pugs = (props) => {
   return (
     <ul>
       <li>PUG GOES HERE</li>
+      <li>PUG GOES HERE</li>
+      <li>PUG GOES HERE</li>
     </ul>
   )
 }
