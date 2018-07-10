@@ -712,13 +712,15 @@ Topic | Lecture | Slides | Solution | Review
 ------|---------|--------|----------|-------
 Morning QA | [📺][morning_qa_7_10] | - | - | -
 Morning QA EventEmitter | - | - | [👾][ee_code_example] | -
-Combine Reducers | - | - | - | -
+Combine Reducers | [📺][combine_reducers] | - | [👾][combine_code] | -
 Redux Patterns | - | - | - | -
 Sessions | - | [🖼️][session_slides] | - | -
 Login and Logout | - | [🖼️][login_slides] | - | -
 
 [morning_qa_7_10]: https://youtu.be/sIQ842G4BQA
 [ee_code_example]: https://repl.it/@tmkelly28/OldfashionedWrongEmulator
+[combine_reducers]: https://www.youtube.com/watch?v=GFsvfg0CSX0
+[combine_code]: 01-junior/26-redux-roundout/combineReducers
 [session_slides]: 01-junior/27-authentication/sessions.pdf
 [login_slides]: 01-junior/27-authentication/login-and-signup.pdf
 
