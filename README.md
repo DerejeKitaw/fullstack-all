@@ -729,6 +729,7 @@ Login and Logout | [📺][login_lecture] | [🖼️][login_slides] | - | -
 [login_lecture]: https://youtu.be/ur9BGQlxuE8
 
 - Homework
-  - [📖 ]()
+  - Submit pairing feedback!
+  - Relax before Senior Enrichment!
 
 </details>
