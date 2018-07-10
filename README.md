@@ -715,7 +715,7 @@ Morning QA EventEmitter | - | - | [👾][ee_code_example] | -
 Combine Reducers | [📺][combine_reducers] | - | [👾][combine_code] | -
 Redux Patterns | [📺][redux_rounding_lecture]  | - | [👾][redux_rounding_code] | -
 Sessions | [📺][session_lecture]  | [🖼️][session_slides] | - | -
-Login and Logout | - | [🖼️][login_slides] | - | -
+Login and Logout | [📺][login_lecture] | [🖼️][login_slides] | - | -
 
 [morning_qa_7_10]: https://youtu.be/sIQ842G4BQA
 [ee_code_example]: https://repl.it/@tmkelly28/OldfashionedWrongEmulator
@@ -726,6 +726,7 @@ Login and Logout | - | [🖼️][login_slides] | - | -
 [session_lecture]: https://youtu.be/sNz8rD7v4OE
 [session_slides]: 01-junior/27-authentication/sessions.pdf
 [login_slides]: 01-junior/27-authentication/login-and-signup.pdf
+[login_lecture]: https://youtu.be/ur9BGQlxuE8
 
 - Homework
   - [📖 ]()
