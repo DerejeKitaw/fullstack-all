@@ -1,23 +1,23 @@
-import {createStore, applyMiddleware} from 'redux'
+import {createStore, applyMiddleware, combineReducers} from 'redux'
 import logger from 'redux-logger'
 import thunks from 'redux-thunk'
 import axios from 'axios'
+import pugsReducer from './pugs'
+import bunniesReducer from './bunnies'
 
-const initialState = {}
-
-const reducer = (state = initialState, action) => {
-  switch (action.type) {
-    default:
-      return state
-  }
-}
+const reducer = combineReducers({
+  pugs: pugsReducer,
+  bunnies: bunniesReducer
+})
 
 const store = createStore(
   reducer,
   applyMiddleware(
-    logger,
-    thunks
-      .withExtraArgument({axios})
+    thunks.withExtraArgument({
+      axios: axios,
+      foo: 'bar'
+    }),
+    logger
   )
 )
 

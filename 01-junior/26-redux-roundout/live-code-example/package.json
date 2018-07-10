@@ -14,6 +14,7 @@
   "dependencies": {
     "@tmkelly28/tk-css": "^1.0.2",
     "axios": "^0.18.0",
+    "babel-polyfill": "^6.26.0",
     "body-parser": "^1.18.2",
     "express": "^4.16.3",
     "morgan": "^1.9.0",
