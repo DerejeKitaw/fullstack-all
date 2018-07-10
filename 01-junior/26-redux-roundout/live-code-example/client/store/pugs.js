@@ -37,7 +37,6 @@ export const fetchPugs = () => {
       // got pugs!
       const pugsAction = gotPugs(data)
       dispatch(pugsAction)
-
     } catch (err) {
       // oh noes!
       const errorAction = pugProblem()
@@ -49,7 +48,7 @@ export const fetchPugs = () => {
 // SELECTORS
 
 export const selectPugs = (state) => {
-  return state.pugs.list.map(pug => (`${pug.name}, age: ${pug.age}`)),
+  return state.pugs.list.map(pug => (`${pug.name}, age: ${pug.age}`))
 }
 
 // PUGS REDUCER
