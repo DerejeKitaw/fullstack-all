@@ -715,7 +715,7 @@ Morning QA EventEmitter | - | - | [👾][ee_code_example] | -
 Combine Reducers | [📺][combine_reducers] | - | [👾][combine_code] | -
 Redux Patterns | [📺][redux_rounding_lecture]  | - | [👾][redux_rounding_code] | -
 Sessions | [📺][session_lecture]  | [🖼️][session_slides] | - | -
-Login and Logout | - | [🖼️][login_slides] | - | -
+Login and Logout | [📺][login_lecture] | [🖼️][login_slides] | - | -
 Senior Enrichment Brief | [📺][senior_enrichment_brief] | - | - | -
 
 [morning_qa_7_10]: https://youtu.be/sIQ842G4BQA
@@ -727,9 +727,11 @@ Senior Enrichment Brief | [📺][senior_enrichment_brief] | - | - | -
 [session_lecture]: https://youtu.be/sNz8rD7v4OE
 [session_slides]: 01-junior/27-authentication/sessions.pdf
 [login_slides]: 01-junior/27-authentication/login-and-signup.pdf
+[login_lecture]: https://youtu.be/ur9BGQlxuE8
 [senior_enrichment_brief]: https://youtu.be/QLUIjrgy0bM
 
 - Homework
-  - [📖 ]()
+  - Submit pairing feedback!
+  - Relax before Senior Enrichment!
 
 </details>
