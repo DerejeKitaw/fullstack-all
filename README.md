@@ -684,3 +684,43 @@ Thunks | [📺][thunk-lecture] | [🖼️][thunks] | - | -
 
 </details>
 
+### Week 6
+
+Redux, Authentication, Preparation for Senior Phase
+
+<details><summary>Click to Open</summary>
+
+#### Day 1
+
+##### StackChat
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+StackChat | - | - | [👾][stackchat_solution]  | [📺][stackchat_group_review] 
+
+[stackchat_group_review]: https://youtu.be/AGNEsJpval0
+[stackchat_solution]: 01-junior/25-stackchat/PairProject.StackChat
+
+- Homework
+  - [📖 Redux with Dan Abramov](https://egghead.io/lessons/react-redux-react-counter-example)
+
+#### Day 2
+
+##### Redux and Authentication
+
+Topic | Lecture | Slides | Solution | Review
+------|---------|--------|----------|-------
+Morning QA | [📺][morning_qa_7_10] | - | - | -
+Morning QA EventEmitter | - | - | [👾][ee_code_example] | -
+Combine Reducers | - | - | - | -
+Redux Patterns | - | - | - | -
+Sessions | - | - | - | -
+Login and Logout | - | - | - | -
+
+[morning_qa_7_10]: https://youtu.be/sIQ842G4BQA
+[ee_code_example]: https://repl.it/@tmkelly28/OldfashionedWrongEmulator
+
+- Homework
+  - [📖 ]()
+
+</details>
