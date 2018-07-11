@@ -734,4 +734,8 @@ Senior Enrichment Brief | [📺][senior_enrichment_brief] | - | - | -
   - Submit pairing feedback!
   - Relax before Senior Enrichment!
 
+### Curriculum Review (Day 3, 4, 5)
+
+- [Part 1: Sequelize and Express](https://youtu.be/OKwjL5VxCcI)
+
 </details>
