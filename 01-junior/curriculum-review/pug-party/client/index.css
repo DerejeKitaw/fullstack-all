@@ -9,3 +9,7 @@
   font-size: 50px;
   font-weight: 800;
 }
+
+a {
+  margin: 0 1em;
+}

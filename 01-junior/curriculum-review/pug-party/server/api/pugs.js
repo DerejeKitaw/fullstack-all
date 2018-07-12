@@ -9,12 +9,12 @@ module.exports = router
 router.get('/', async (req, res, next) => {
   try {
     const pugs = await Pug.findAll({
-      where: {
-        age: {
-          [Op.gte]: req.query.minage
-        }
-      },
-      include: [{model: Party}]
+      // where: {
+      //   age: {
+      //     [Op.gte]: req.query.minage
+      //   }
+      // },
+      // include: [{model: Party}]
     })
     res.json(pugs)
   } catch (err) {

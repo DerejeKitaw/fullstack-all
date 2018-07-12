@@ -22,7 +22,7 @@ app.use('/api', require('./api'))
 // For all GET requests that aren't to an API route,
 // we will send the index.html!
 app.get('/*', (req, res, next) => {
-  res.sendFile(path.join(__dirname, '..', 'index.html'))
+  res.sendFile(path.join(__dirname, '..', 'public', 'index.html'))
 })
 
 // Error handling endware

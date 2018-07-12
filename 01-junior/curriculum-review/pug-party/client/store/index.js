@@ -1,16 +1,12 @@
-import {createStore, applyMiddleware} from 'redux'
+import {createStore, applyMiddleware, combineReducers} from 'redux'
 import logger from 'redux-logger'
 import thunks from 'redux-thunk'
 import axios from 'axios'
+import pugs from './pugs'
 
-const initialState = {}
-
-const reducer = (state = initialState, action) => {
-  switch (action.type) {
-    default:
-      return state
-  }
-}
+const reducer = combineReducers({
+  pugs
+})
 
 const store = createStore(
   reducer,
