@@ -737,5 +737,6 @@ Senior Enrichment Brief | [📺][senior_enrichment_brief] | - | - | -
 ### Curriculum Review (Day 3, 4, 5)
 
 - [Part 1: Sequelize and Express](https://youtu.be/OKwjL5VxCcI)
+- [Part 1: More Backend](https://youtu.be/XOqUq5MlC10)
 
 </details>
