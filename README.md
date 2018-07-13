@@ -739,5 +739,6 @@ Senior Enrichment Brief | [📺][senior_enrichment_brief] | - | - | -
 - [Part 1: Sequelize and Express](https://youtu.be/OKwjL5VxCcI)
 - [Part 2: More Backend](https://youtu.be/XOqUq5MlC10)
 - [Optional: Front End](https://youtu.be/uwS6PuoHFcM)
+- [Part 3: Front End](https://youtu.be/VJY6YiINV3E)
 
 </details>
