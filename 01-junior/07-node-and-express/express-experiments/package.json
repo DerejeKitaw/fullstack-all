@@ -1,0 +1,21 @@
+{
+  "name": "express-experiments",
+  "version": "1.0.0",
+  "description": "somethin'",
+  "main": "index.js",
+  "scripts": {
+    "test": "what"
+  },
+  "repository": {
+    "type": "git",
+    "url": "what"
+  },
+  "keywords": [
+    "whjat"
+  ],
+  "author": "moi",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.16.3"
+  }
+}
